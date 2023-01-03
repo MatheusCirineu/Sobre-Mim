@@ -1,4 +1,5 @@
-OI! EU SOU O MATHEUS ⭐😊
+Ola  Eu sou o Matheus😊
+⭐Meu foco é  se tornar Desenvolvedor Fullstack
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
